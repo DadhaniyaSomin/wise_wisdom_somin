@@ -1,0 +1,6 @@
+winstom logger :
+https://www.section.io/engineering-education/logging-with-winston/
+
+
+Database mysql2 github :
+https://github.com/Juliest88/mysql-node-express/blob/master/src/db/db-connection.js
