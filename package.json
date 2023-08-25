@@ -4,6 +4,9 @@
   "description": "REST API Boilerplate with Node JS, TypeScript, Express and Prisma",
   "main": "src/index.js",
   "type": "module",
+  "engines": {
+    "node": "18.17.1"
+  },
   "repository": "https://github.com/antonio-lazaro/prisma-express-typescript-boilerplate.git",
   "scripts": {
     "start": "yarn build && pm2 start ecosystem.config.json --no-daemon",
