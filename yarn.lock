@@ -3390,7 +3390,7 @@
     "import-local" "^3.0.2"
     "jest-cli" "^29.6.2"
 
-"joi@^17.7.0":
+"joi@^17.9.2":
   "integrity" "sha512-Itk/r+V4Dx0V3c7RLFdRh12IOjySm2/WGPMubBT92cQvRfYZhPM2W0hZlctjj72iES8jsRCwp7S/cRmWBnJ4nw=="
   "resolved" "https://registry.npmjs.org/joi/-/joi-17.9.2.tgz"
   "version" "17.9.2"
