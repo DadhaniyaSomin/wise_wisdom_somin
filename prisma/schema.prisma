@@ -9,9 +9,11 @@ datasource db {
 
 model User{
     id  Int @id @default(autoincrement())
+    slug String
     email String @unique
     name String?
     password String
+    salt String
     role Role @default(USER)
     isEmailVarifired Boolean @default(false)
     createAt DateTime @default(now())
